@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Soulwealth/static/css/main.042088e3.css",
+    "main.js": "/Soulwealth/static/js/main.82084972.js",
+    "static/js/453.8950b63b.chunk.js": "/Soulwealth/static/js/453.8950b63b.chunk.js",
+    "static/media/pic1.jpg": "/Soulwealth/static/media/pic1.350d694c6d28385cf4ad.jpg",
+    "static/media/background.jpg": "/Soulwealth/static/media/background.d7cf006e938608789941.jpg",
+    "static/media/card-img.jpg": "/Soulwealth/static/media/card-img.636811d244c83941287e.jpg",
+    "static/media/image1.jpg": "/Soulwealth/static/media/image1.312768f8f0ea1f69b3ec.jpg",
+    "static/media/image3.jpg": "/Soulwealth/static/media/image3.15d495d153d891f570c8.jpg",
+    "static/media/image2.jpg": "/Soulwealth/static/media/image2.d7905af3668780dd18d1.jpg",
+    "static/media/twiite.png": "/Soulwealth/static/media/twiite.2ce2ef205ca61c162e32.png",
+    "static/media/instagram.png": "/Soulwealth/static/media/instagram.d78ebffefe04295791e5.png",
+    "index.html": "/Soulwealth/index.html",
+    "main.042088e3.css.map": "/Soulwealth/static/css/main.042088e3.css.map",
+    "main.82084972.js.map": "/Soulwealth/static/js/main.82084972.js.map",
+    "453.8950b63b.chunk.js.map": "/Soulwealth/static/js/453.8950b63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.042088e3.css",
+    "static/js/main.82084972.js"
+  ]
+}
